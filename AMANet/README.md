@@ -1,4 +1,4 @@
-# AMANet:Attention-Enhanced Memory Network for Video Anomaly Detection
+# AEMNet:Unsupervised Video Anomaly Detection Method Based on Attention-Enhanced Memory Networks
 
 PyTorch 1.8.1 
 Ubuntu 18.04 
