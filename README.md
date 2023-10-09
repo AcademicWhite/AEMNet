@@ -1,2 +1,2 @@
-# AMANet
-AMANet:Attention-Enhanced Memory Network for Video Anomaly Detection
+# AEMNet
+AEMNet:Unsupervised Video Anomaly Detection Method Based on Attention-Enhanced Memory Networks
